@@ -1,0 +1,7 @@
+[2026-04-23T16:50:24Z] === AST ITERATION 1 START | repo=rust-rdf/rdf.rs sha=c7d18726 ===
+[2026-04-23T16:50:24Z] [iter=1] PHASE START: ast repo=rust-rdf/rdf.rs sha=c7d18726
+[2026-04-23T16:50:24Z] [iter=1] Building AST aggregate chunks
+[2026-04-23T16:50:27Z] [iter=1] AST chunks built count=1 triples=38209
+[2026-04-23T16:50:27Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/c7d1872610f04e19caffb8882d73706ad89cf241/.complete
+[2026-04-23T16:50:27Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.0
+[2026-04-23T16:50:27Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
