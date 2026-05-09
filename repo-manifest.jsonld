@@ -21,8 +21,9 @@
     {
       "@id": "https://repolex.ai/r/rust-rdf/rdf.rs/commit/3f8e61fb0178440a035ebc35dc1ebaa07a306ba3",
       "git:hexsha": "3f8e61fb0178440a035ebc35dc1ebaa07a306ba3",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "0.0.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.0.1",
+      "repolex:parsedAt": "2026-05-09T00:13:28.890259+00:00"
     },
     {
       "@id": "https://repolex.ai/r/rust-rdf/rdf.rs/commit/32765a85fb027fd8960ab2afa58a819382b8807c",
